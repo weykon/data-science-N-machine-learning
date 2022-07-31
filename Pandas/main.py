@@ -36,3 +36,4 @@ pd.concat([s1,s2])
 # rust look like this
 l = pd.Series([11,12,13,14,15,16])
 l[0:3]
+
