@@ -50,5 +50,3 @@ print(employees.append({"Name": "Romeo", "Age": 26,
 # remove row - "drop"
 print(employees.drop(employees[employees["Age"] > 30].index))
 
-
-# transform data
