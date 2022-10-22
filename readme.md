@@ -5,3 +5,7 @@
 
 ## 神经网络计算理解
 https://aegeorge42.github.io/
+
+
+
+# 重新进行这里的学习。 (create a timestamp)
